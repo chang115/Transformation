@@ -21,3 +21,4 @@ def ballTransform0(i, loc):
 obj = HouseBallAnimation(show_axes = True)
 anim = obj.animate(ballTransform0, houseTransform0)
 plt.show()
+

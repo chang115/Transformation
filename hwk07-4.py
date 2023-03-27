@@ -18,3 +18,4 @@ plt.show()
 # use the following format to create a video that can be viewed in a browser
 # anim.save('hwk07Solution-browser.mp4', fps=20, extra_args=['-vcodec', 'libx264'])
 
+

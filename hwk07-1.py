@@ -12,3 +12,4 @@ obj = HouseBallAnimation(show_axes = True)
 anim = obj.animate(ballTransform1, houseTransform1)
 plt.show()
 # anim.save('hwk07-1-Solution.mp4', fps=20)
+
